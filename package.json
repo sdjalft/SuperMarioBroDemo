@@ -1,0 +1,12 @@
+{
+  "name": "SuperMarioBro",
+  "uuid": "5bc6edee-4331-43e4-906a-3879c66a846f",
+  "version": "3.6.1",
+  "creator": {
+    "version": "3.8.3"
+  },
+  "dependencies": {
+    "event-emitter3": "^1.0.4",
+    "mobx": "^6.13.0"
+  }
+}
